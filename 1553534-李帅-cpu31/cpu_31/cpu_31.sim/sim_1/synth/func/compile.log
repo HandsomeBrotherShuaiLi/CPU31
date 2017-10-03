@@ -1,0 +1,19 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "S:/Vivado/cpu_31/cpu_31.sim/sim_1/synth/func/cpu_test_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module iiram_ip
+INFO: [VRFC 10-311] analyzing module adddd
+INFO: [VRFC 10-311] analyzing module addsub32
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-311] analyzing module cpu_test
+INFO: [VRFC 10-311] analyzing module dram
+INFO: [VRFC 10-311] analyzing module mux4x32
+INFO: [VRFC 10-311] analyzing module pcreg
+INFO: [VRFC 10-311] analyzing module regfiles
+INFO: [VRFC 10-311] analyzing module shifter
+INFO: [VRFC 10-311] analyzing module iiram_ip_blk_mem_gen_generic_cstr
+INFO: [VRFC 10-311] analyzing module iiram_ip_blk_mem_gen_prim_width
+INFO: [VRFC 10-311] analyzing module iiram_ip_blk_mem_gen_prim_wrapper_init
+INFO: [VRFC 10-311] analyzing module iiram_ip_blk_mem_gen_top
+INFO: [VRFC 10-311] analyzing module iiram_ip_blk_mem_gen_v8_3_3
+INFO: [VRFC 10-311] analyzing module iiram_ip_blk_mem_gen_v8_3_3_synth
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Thu Apr 27 21:09:17 2017
+# Process ID: 14072
+# Current directory: S:/Vivado/cpu_31/cpu_31.sim/sim_1/synth/func
+# Command line: wbtcv.exe -mode batch -source S:/Vivado/cpu_31/cpu_31.sim/sim_1/synth/func/xsim.dir/cpu_test_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: S:/Vivado/cpu_31/cpu_31.sim/sim_1/synth/func/webtalk.log
+# Journal file: S:/Vivado/cpu_31/cpu_31.sim/sim_1/synth/func\webtalk.jou
+#-----------------------------------------------------------
+source S:/Vivado/cpu_31/cpu_31.sim/sim_1/synth/func/xsim.dir/cpu_test_func_synth/webtalk/xsim_webtalk.tcl -notrace

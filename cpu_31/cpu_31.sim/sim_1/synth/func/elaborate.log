@@ -1,0 +1,53 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 4293bcf8888b44b58d3d7411a4685e6e --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot cpu_test_func_synth xil_defaultlib.cpu_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.x_lut1_mux2
+Compiling module unisims_ver.LUT1
+Compiling module unisims_ver.CARRY4
+Compiling module unisims_ver.LUT4
+Compiling module unisims_ver.LUT6
+Compiling module unisims_ver.latchsre_ldce
+Compiling module unisims_ver.LDCE
+Compiling module unisims_ver.LUT5
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.x_lut3_mux4
+Compiling module unisims_ver.x_lut3_mux4_reduced_0
+Compiling module unisims_ver.LUT3
+Compiling module unisims_ver.latchsre_ldpe
+Compiling module unisims_ver.LDPE
+Compiling module xil_defaultlib.addsub32
+Compiling module xil_defaultlib.shifter
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.adddd
+Compiling module unisims_ver.RAM256X1S
+Compiling module xil_defaultlib.dram
+Compiling module unisims_ver.GND
+Compiling module unisims_ver.RB36_INTERNAL_VLOG(DOA_REG=1,DOB...
+Compiling module unisims_ver.RAMB36E1(DOA_REG=1,INIT_00=256'b...
+Compiling module xil_defaultlib.iiram_ip_blk_mem_gen_prim_wrappe...
+Compiling module xil_defaultlib.iiram_ip_blk_mem_gen_prim_width
+Compiling module xil_defaultlib.iiram_ip_blk_mem_gen_generic_cst...
+Compiling module xil_defaultlib.iiram_ip_blk_mem_gen_top
+Compiling module xil_defaultlib.iiram_ip_blk_mem_gen_v8_3_3_synt...
+Compiling module xil_defaultlib.iiram_ip_blk_mem_gen_v8_3_3
+Compiling module xil_defaultlib.iiram_ip
+Compiling module xil_defaultlib.mux4x32
+Compiling module unisims_ver.sffsrce_fdre
+Compiling module unisims_ver.FDRE
+Compiling module xil_defaultlib.pcreg
+Compiling module unisims_ver.MUXF7
+Compiling module unisims_ver.MUXF8
+Compiling module unisims_ver.FDRE(IS_C_INVERTED=1'b1)
+Compiling module xil_defaultlib.regfiles
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.cpu_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpu_test_func_synth

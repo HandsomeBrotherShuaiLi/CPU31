@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Thu Apr 27 21:22:25 2017
+# Process ID: 15180
+# Current directory: S:/Vivado/cpu_31/cpu_31.runs/synth_1
+# Command line: vivado.exe -log cpu_test.vds -mode batch -messageDb vivado.pb -notrace -source cpu_test.tcl
+# Log file: S:/Vivado/cpu_31/cpu_31.runs/synth_1/cpu_test.vds
+# Journal file: S:/Vivado/cpu_31/cpu_31.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source cpu_test.tcl -notrace
